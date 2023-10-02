@@ -1,0 +1,153 @@
+
+body{
+	background-color: #202e23;
+	font-family: 'Source Sans 3', sans-serif;
+	font-weight: 800;
+
+}
+
+h1{
+    line-height: 0;
+    color: #fff;
+    margin-top: 80px ;
+    margin-left: 30px;
+    font-size: 80px;
+
+}
+
+h2{
+	margin-left: 30px;
+	color: #fff;
+	font-family: 'Questrial', sans-serif;
+	font-size: 35px;
+	color: #ed6040;
+
+}
+
+h3 {
+	margin-top: 20px;
+	color: #fff;
+	font-size: 20px;
+
+
+}
+
+p {
+	font-size: 25px;
+	color: #fff;
+	font-family: 'Questrial', sans-serif;
+	font-weight: 600;
+	line-height: 50px;
+
+}
+li{
+	color: #fff;
+	font-family: 'Questrial', sans-serif;
+	font-weight: 600;
+	line-height: 50px;
+}
+i{
+	color: #617d69;
+	font-size: 100px;
+	margin-bottom: 30px;
+	margin-left: 100px;
+	align-content: center;
+}
+
+.sloganBar{
+	flex-flow: column wrap;
+	justify-content: space-between;
+}
+
+
+.navBar{
+	display: flex;
+	justify-content: space-between;
+}
+
+.navMenu{
+	display: flex;
+	justify-content: flex-end;
+	padding: 50px;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 500;
+
+
+}
+
+.navItem {
+    color: #fff;
+    font-size: 25px;
+    padding-left: 40px;
+	text-decoration: none;
+
+}
+
+.homeImage{
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	width: 70%; 
+}
+
+.homeInfo{
+	margin-left: 80px ;
+	margin-right: 80px;
+}
+
+.highlighted{
+	color: #fa9d5a;
+}
+
+.factLine{
+	margin-top: 50px;
+	margin-left: 50px;
+	font-size: 35px;
+	color:#f7c46a ;
+}
+
+.factBlurb{
+	margin-left : 80px;
+	margin-right: 80px;
+	margin-bottom: 50px;
+	color: #fff;
+}
+
+#sloganTop {
+	margin-left: 31px;
+	font-size: 70px; 
+}
+#sloganBottom {
+	padding-top: 30px;
+	font-size: 90px;
+	margin-left: 30px; 
+	color: #ed6040;
+}
+
+.effortsBlock{
+	display: flex;
+	justify-content: center;
+	align-content: space-between;
+}
+
+.efforts{
+	width: 320px;
+	height: 800px;
+	background-color:  rgba(69, 99, 75,0.3);
+	border-radius: 5px;
+	padding: 40px;
+	margin: 40px;
+
+}
+.effortsTitle{
+	font-size: 30px;
+	color: #abcfab;
+	margin-bottom: 0px ;
+	text-align: center;
+}
+
+.effortsBlurb{
+	padding-top: 20px;
+	font-size: 19.65px;
+	text-align: justify;
+}
